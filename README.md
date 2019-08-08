@@ -1,2 +1,0 @@
-# ReactDeneme
-Created with CodeSandbox
